@@ -1,0 +1,17 @@
+.why-code-about-item{
+    margin-bottom:20px;
+}
+.why-code-about-row img{
+    max-width: 100%;
+    object-fit: cover;
+}
+.why-code-about-row h5{
+ font-weight: 800;
+}
+.why-code-about-row p{
+    font-size:14px;
+}
+.why-code-about-row a{
+    text-decoration: none;
+    color:black;
+}
